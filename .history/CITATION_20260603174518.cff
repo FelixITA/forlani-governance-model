@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The ForlAⁿI Governance Model: A Multi-Agent Governance Architecture for Human-Centric Digital Operations"
+authors:
+  - family-names: "Forlani"
+    given-names: "Filippo"
+year: 2026
+version: "0.1"
+type: report
+license: "CC-BY-NC-4.0"
